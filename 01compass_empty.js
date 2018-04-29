@@ -25,7 +25,7 @@ oriented = function(e) {
         }
 
         if(compassHeading >= 129 && compassHeading < 189) {
-        text_area.textContent = "xxxxxxxxMENUxxxxxxxx CurryChickenRice/Noodle, CurryBeefRice/Noodle, CurryMeatballRice/Noodle,CurryBreadRice, CurryOmeletRice, CurryMusselRice, CurryDuckRice/Noodle, CurrySpicyRice/Noodle, CurryCarrotRice/Noodle, CurryOfChoice.";
+        text_area.textContent = "xxxxxxMENUxxxxxx CurryChickenRice/Noodle, CurryBeefRice/Noodle, CurryMeatballRice/Noodle,CurryBreadRice, CurryOmeletRice, CurryMusselRice, CurryDuckRice/Noodle, CurrySpicyRice/Noodle, CurryCarrotRice/Noodle, CurryOfChoice.";
         }
 
         if(compassHeading >= 189 && compassHeading < 201) {
